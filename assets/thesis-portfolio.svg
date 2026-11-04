@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="295" viewBox="0 0 1120 295" role="img" aria-labelledby="t">
+<title id="t">Damir · Full-stack developer · TypeScript and Python · Kazakhstan</title>
+<defs><pattern id="dots" width="17" height="17" patternUnits="userSpaceOnUse"><circle cx="3" cy="3" r="1.2" fill="#30545d"/></pattern></defs>
+<rect width="1120" height="295" rx="20" fill="#102832"/>
+<rect x="736" y="10" width="370" height="275" fill="url(#dots)"/>
+<g font-family="Arial,Helvetica,sans-serif">
+<circle cx="56" cy="48" r="5" fill="#ffbc77"/><text x="74" y="54" fill="#b2e4da" font-size="17" letter-spacing="2">DAMIR  /  KAZAKHSTAN</text>
+<text x="46" y="143" font-size="75" font-weight="bold" fill="#f4f8f5" letter-spacing="-3">Full-stack developer</text>
+<text x="51" y="196" font-size="31" fill="#a5eee0">TypeScript + Python</text>
+<path d="M52 224h605" stroke="#43636c"/>
+<text x="52" y="260" font-size="19" fill="#c2d5d6">Interfaces, APIs and the data behind them.</text>
+<g transform="translate(780 34)">
+<rect x="24" y="18" width="245" height="196" rx="15" fill="#173742" stroke="#43656a"/>
+<rect x="12" y="9" width="245" height="196" rx="15" fill="#193e48" stroke="#55817e"/>
+<rect width="245" height="196" rx="15" fill="#163640" stroke="#83ccbc" stroke-width="2"/>
+<path d="M0 34h245" stroke="#52817d"/><g fill="#99dbcb"><circle cx="17" cy="17" r="3"/><circle cx="29" cy="17" r="3"/><circle cx="41" cy="17" r="3"/></g>
+<path d="M32 65v96" stroke="#5d9f96" stroke-width="2"/>
+<g fill="#193b44" stroke="#8bdac8" stroke-width="2"><circle cx="32" cy="69" r="5"/><circle cx="32" cy="112" r="5"/><circle cx="32" cy="155" r="5" fill="#ffbc77" stroke="#ffbc77"/></g>
+<g font-family="monospace" font-size="18" fill="#eef7f1"><text x="54" y="75">Retrieve</text><text x="54" y="118">Inspect</text><text x="54" y="161">Verify</text></g>
+</g></g></svg>

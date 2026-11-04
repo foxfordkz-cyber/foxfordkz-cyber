@@ -1,12 +1,25 @@
 <h1>Damir · Full-stack developer</h1>
 
-![TypeScript and Python · Kazakhstan · Open to full-stack roles](assets/full-stack-portfolio.svg)
+![TypeScript and Python · Kazakhstan · Open to full-stack roles](assets/thesis-portfolio.svg)
 
-I build web apps for people working in Kazakhstan. I like the part where the interface meets the database: a seller can correct a voice transcription, retry a payment, or lose their connection without having to guess what was saved.
+I build web applications in Kazakhstan with TypeScript and Python. My work spans document search, business software and decision tools.
 
 **Open to full-stack roles with TypeScript and Python.** [Email me](mailto:foxfordkz@gmail.com) · [Browse the code walkthrough](ENGINEERING.md)
 
-## Featured build · Qadam Business
+## Featured thesis · Multimodal Graph RAG
+
+![Local RAG studio: document ingestion and change impact analysis on a demo corpus](assets/thesis-workspace.png)
+
+<details>
+<summary>View the source excerpt</summary>
+
+![Review screen with an explanation and a supporting excerpt from a sample course document](assets/thesis-source.png)
+
+</details>
+
+*Thesis interface, shown with demonstration materials.*
+
+## Public code sample · Qadam Business
 
 A seller in Taraz says a sale out loud in Kazakh or Russian. The app drafts the entry, the seller checks the customer and amount, and only then does it enter the ledger.
 
