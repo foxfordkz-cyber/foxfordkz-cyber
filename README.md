@@ -8,12 +8,12 @@ I build web applications in Kazakhstan with TypeScript and Python. My work spans
 
 ## Featured thesis · Multimodal Graph RAG
 
-![Local RAG studio: document ingestion and change impact analysis on a demo corpus](assets/thesis-workspace.png)
+![Local RAG studio: document ingestion and change impact analysis on a demo corpus](assets/rag-studio.png)
 
 <details>
 <summary>View the source excerpt</summary>
 
-![Review screen with an explanation and a supporting excerpt from a sample course document](assets/thesis-source.png)
+![Review screen with an explanation and a supporting excerpt from a sample course document](assets/rag-source-review.png)
 
 </details>
 
