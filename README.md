@@ -34,8 +34,18 @@ A seller in Taraz says a sale out loud in Kazakh or Russian. The app drafts the 
 | Project | What to try | Look under the hood |
 | --- | --- | --- |
 | **[Green Pavlodar](https://github.com/foxfordkz-cyber/qadamxpavlodar)** | [Pick a plot](https://green-pavlodar-mock.pages.dev/), compare planting plans, then explore the 20-year forecast. | [Snapshot and recovery tests](https://github.com/foxfordkz-cyber/qadamxpavlodar/blob/codex/coordinator/apps/server/tests/outcomes.test.ts) show how a forecast survives later inspections and a server restart. |
-| **[TeamTrustGate](https://github.com/foxfordkz-cyber/teamtrustg)** | Follow a customer request from Telegram to a reviewed Jira ticket. | [Duplicate detection](https://github.com/foxfordkz-cyber/teamtrustg/blob/main/deduplicator.py) uses a keyword fallback when the model is unavailable. |
-| **[Qazaq Loc QA](https://github.com/foxfordkz-cyber/stupits-karaganda)** · team project | [See the editor](https://github.com/foxfordkz-cyber/stupits-karaganda/blob/codex/integration-kit/docs/images/review-overview.jpg) explain a flagged Russian-to-Kazakh translation. | [Team verification script](https://github.com/foxfordkz-cyber/stupits-karaganda/blob/codex/integration-kit/scripts/verify-team.mjs) ties the checks to a reproducible report. |
+| **[TeamTrustGate](https://github.com/foxfordkz-cyber/teamtrustgate)** | Follow a customer request from Telegram to a reviewed Jira ticket. | [Duplicate detection](https://github.com/foxfordkz-cyber/teamtrustgate/blob/main/deduplicator.py) uses a keyword fallback when the model is unavailable. |
+| **[Qazaq Loc QA](https://github.com/foxfordkz-cyber/qazaq-loc-qa)** · team project | [See the editor](https://github.com/foxfordkz-cyber/qazaq-loc-qa/blob/codex/integration-kit/docs/images/review-overview.jpg) explain a flagged Russian-to-Kazakh translation. | [Team verification script](https://github.com/foxfordkz-cyber/qazaq-loc-qa/blob/codex/integration-kit/scripts/verify-team.mjs) ties the checks to a reproducible report. |
+
+## Also built
+
+| Project | What it is |
+| --- | --- |
+| **[First Year](https://github.com/foxfordkz-cyber/first-year-nyc)** | A persistent New York City sim of the first year of running your own business. [Play it ↗](https://ohhheaven-production.up.railway.app) |
+| **[QARZHY](https://github.com/foxfordkz-cyber/qarzhilik)** | Financial literacy platform in Kazakh and Russian on Cloudflare Workers. [Open ↗](https://qarzhy.zerdeliportald.workers.dev) |
+| **[Otbasy Budget](https://github.com/foxfordkz-cyber/qarzhy)** | Family budget app in Kazakh, plain JavaScript, works offline. [Try the demo ↗](https://foxfordkz-cyber.github.io/qarzhy/) |
+| **[Zerdeli Saraptama](https://github.com/foxfordkz-cyber/zerdeli-saraptama)** | Curriculum review portal with voice comments and Supabase row-level security. |
+| **[Otar](https://github.com/foxfordkz-cyber/otar-android)** | Android app for livestock farms, Kotlin. |
 
 ## Stack in practice
 
