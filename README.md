@@ -4,7 +4,7 @@
 
 I build web applications in Kazakhstan with TypeScript and Python. My work spans document search, business software and decision tools.
 
-**Open to full-stack roles with TypeScript and Python.** [Email me](mailto:foxfordkz@gmail.com) · [Browse the code walkthrough](ENGINEERING.md)
+**Open to full-stack roles with TypeScript and Python.** [Email](mailto:foxfordkz@gmail.com) · [LinkedIn](https://www.linkedin.com/in/damir-karabek-53065432b/) · [Telegram](https://t.me/kayen003) · [Code walkthrough](ENGINEERING.md)
 
 ## Featured thesis · Multimodal Graph RAG
 
@@ -54,3 +54,5 @@ A seller in Taraz says a sale out loud in Kazakh or Russian. The app drafts the 
 **Engineering interests** · Bilingual interfaces, API design, transaction safety and integration testing
 
 If your team is building a product with a TypeScript frontend and a Python backend, [let’s talk](mailto:foxfordkz@gmail.com).
+
+[![Email](https://img.shields.io/badge/Email-foxfordkz%40gmail.com-D14836?logo=gmail&logoColor=white)](mailto:foxfordkz@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Damir%20Karabek-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/damir-karabek-53065432b/) [![Telegram](https://img.shields.io/badge/Telegram-%40kayen003-26A5E4?logo=telegram&logoColor=white)](https://t.me/kayen003)
